@@ -1,4 +1,5 @@
-<div align="center" style="font-weight: 900"><img src="src/assets/img/logo.jpg" alt="emin8-logo" height="64" style="vertical-align: middle"> automation, open-sourced</div>
+<div align="center"><img src="src/assets/img/logo.jpg" alt="emin8-logo" height="64"></div>
+<p align="center"><b>automation, open-sourced</b></p>
 
 &nbsp;
 
